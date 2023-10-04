@@ -39,6 +39,7 @@ Still there? Still interested? Amazing!
 Imagine you are approached by a colleague. They have habituated a group of a previously unknown primate species and can individually identify all group members. They observed them for 2,500h over the course of one year, following all 60 adult group members using focal follows. Because we know nothing about this particular species, they collected basic data on dominance interactions (they are certain that higher-ranking individuals displace lower-ranking individuals most of the time) and grooming interactions, which are fairly common. However, this researcher is not able to turn the raw data into analysable data or run statistical analyses. They are asking you for help, to determine how dominance rank and sex influence grooming patterns. You will have to calculate dominance ranks and prepare grooming interactions and use whatever statistical analyses you find appropriate to answer the two following research questions:
 
 a)  What is the impact of sex on grooming interactions in this species?
+
 b)  What is the impact of dominance rank on grooming interactions in this species?
 
 **Please remember that there are no right or wrong approaches - please prepare and analyse data the way you have done in the past and that you find appropriate!**

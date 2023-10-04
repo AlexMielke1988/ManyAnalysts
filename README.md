@@ -11,7 +11,7 @@ b)  You have experience manipulating and analysing social data - interaction rat
 c)  You are at least at the level of PhD student
 d)  You have a verifiable institutional email address - it does not matter which institution or where it is situated, but we need to check your status
 
-If you are unsure whether you fulfill the criteria, you can fill this form: <a href="https://forms.office.com/e/urCgLUyWv0" target="_blank" rel="noopener"> Inclusion Form </a>
+If you are unsure whether you fulfill the criteria, you can fill this form: <https://forms.office.com/e/urCgLUyWv0>
 If you would like us to periodically remind you that you had intended to participate in this study, you can also use the form.
 
 ## The study
@@ -51,7 +51,7 @@ There is also a template () that you can use to guide your steps and that will m
 
 ### Your submission
 
-We require a reproducible document to check how you went from raw data to your results -\*\* it is not enough to simply fill out the questionnaire about the study system in the end\*\*.
+We require a reproducible document to check how you went from raw data to your results - **it is not enough to simply fill out the questionnaire about the study system in the end**.
 
 This reproducible document can take different forms, depending on the software you would usually use to solve a problem of this kind. - R or Python are preferable, because we can simply compare scripts and used packages - If you usually conduct this kind of analysis in click-based software (Excel/SPSS or a combination), you will have to provide us with a detailed description of your choices, in a way that will allow us to start with the raw data, follow your steps, and arrive at the same conclusions
 

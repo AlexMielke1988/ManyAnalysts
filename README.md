@@ -26,7 +26,7 @@ d)  You have a verifiable institutional email address - it does not
     check your status
 
 If you are unsure whether you fulfill the criteria, you can fill this
-form: <a href="https://forms.office.com/e/urCgLUyWv0">target="_blank">UCSB</a> If you would like us to
+form: https://forms.office.com/e/urCgLUyWv0 If you would like us to
 periodically remind you that you had intended to participate in this
 study, you can also use the form.
 

@@ -33,9 +33,9 @@ d)  You have a verifiable institutional email address - it does not
 If you are unsure whether you fulfill the criteria, you can fill this
 form:
 [https://forms.office.com/e/urCgLUyWv0](https://forms.office.com/e/urCgLUyWv0){.uri
-target="_blank"} If you would like us to periodically remind you that
-you had intended to participate in this study, you can also use the
-form.
+target="_blank" rel="noopener"} If you would like us to periodically
+remind you that you had intended to participate in this study, you can
+also use the form.
 
 ## The study
 

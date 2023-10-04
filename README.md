@@ -1,8 +1,4 @@
----
-output: 
-  html_document: 
-    keep_md: yes
----
+
 # Many Analysts, One Dataset - Primate Sociality
 
 Welcome to our little experiment, and thank you for your interest! For any questions, or if you would like to receive more detailed or simpler instructions, please contact [a.mielke\@qmul.ac.uk](mailto:a.mielke@qmul.ac.uk) .

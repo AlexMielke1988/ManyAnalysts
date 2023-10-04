@@ -41,7 +41,11 @@ b)  What is the impact of dominance rank on grooming interactions in this specie
 
 **Please remember that there are no right or wrong approaches - please prepare and analyse data the way you have done in the past and that you find appropriate!**
 
-You can find the data here: . There are four files: - *demographics.csv* contains the individuals and their sexes; - *observation_times.csv* contains information about how often each individual was observed, in case this is information you usually integrate in your analyses; - *displacements.csv* contains data that can be used to calculate dominance ranks (higher-ranking individuals are the Sender of the displacements); - *grooming.csv* contains data on grooming interactions (grooming is strictly dyadic and one-directional in this species)
+You can find the data here: . There are four files:
+- *demographics.csv* contains the individuals and their sexes;
+- *observation_times.csv* contains information about how often each individual was observed, in case this is information you usually integrate in your analyses;
+- *displacements.csv* contains data that can be used to calculate dominance ranks (higher-ranking individuals are the Sender of the displacements);
+- *grooming.csv* contains data on grooming interactions (grooming is strictly dyadic and one-directional in this species)
 
 There is also a template () that you can use to guide your steps and that will make it easier for us to compare different submissions later. This template can be copied into an R script, for example, as guidelines.
 

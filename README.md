@@ -1,2 +1,25 @@
-# ManyAnalysts
+# Many Analysts, One Dataset - Primate Sociality
  
+Welcome to our little experiment, and thank you for your interest! For any questions, or if you would like to receive more detailed or simpler instructions, please contact a.mielke@qmul.ac.uk .
+
+## Inclusion Criteria
+**This study has the following inclusion criteria. Only continue if you think you fulfill these criteria. If you do not fulfill these criteria, please do not spend your time on this.**
+Because we will offer co-authorship to participants and because we are interested in how certain choices are made within the field, we can **only use data of researchers who have the following characteristics**:
+
+a) You have previously worked with primates - it is not important here if you collected your own data or used someone else, or in which setting you worked
+b) You have experience manipulating and analysing social data - interaction rates, dominance hierarchies, etc
+c) You are at least at the level of PhD student
+d) You have a verifiable institutional email address - it does not matter which institution or where it is situated, but we need to check your status
+
+If you are unsure whether you fulfill the criteria, you can fill this form: https://forms.office.com/e/urCgLUyWv0 
+If you would like us to periodically remind you that you had intended to participate in this study, you can also use the form.
+
+## The study
+### Rationale
+Scientific research often forces researchers to make choices - about how to collect data, process data, analyse data. This is especially true for non-experimental data, because few researchers will receive the training they need to handle it before they actively work with, and often it's learning-by-doing. Sociality research in primatology is a prime example of this - you have a group of monkeys and you want to find out who is the alpha female and who is friends with each other, but your university course did not prepare you for this. Do you collect data using focal follows or scans? Do you include juveniles or not? Which dominance rank index do you use, and for which interaction type? Do you standardise grooming rates or not? This leads into a 'garden of forking paths': two researchers, starting with the same research question, might make different decisions for each of these choices and end up with very different data, processing steps, and statistical models. We cannot currently assess how much this impacts the published literature because many of these choices are built into the way fieldsites collect their data and because few fieldsites see internal replications with new data. 
+One approach that has been used to understand the risks involved in these many researcher degrees of freedom is called a 'Many Analysts, One Dataset' approach (https://doi.org/10.1177/2515245917747646). The basic idea is that as many researchers as possible carry out an analysis using the same basic raw data, but following the protocols that they usually use in their research group. If enough researchers participate, this approach gives us an overview of the most common differences between studies and whether they have an impact on how researchers would describe their study system. The goal is not to determine who does it right or wrong, but to map the different decisions that are available and make future researchers aware of the effects they have on their own study. In this study, we are trying to do just that, with a basic primate sociality dataset. 
+### What to expect
+If you participate, you can expect the following: you will be given a basic primate sociality dataset (comprised of individual demographics, observation effort, displacements, and grooming interactions). These data are simulated, but follow the same patterns as many real-world primate data. We would ask you to prepare the data as you would if you were given data on a new, unknown primate species, while keeping track of all the data manipulations you conduct (preferably using the R script template provided, but we can adapt). We will ask you to run statistical analysis to describe the social system you were given. Afterwards, we will ask you to upload your documentation so that we can determine which choices you made along the data pipeline and analysis, and compare your results with those of other participants. We will then ask you to answer some basic questions about the primates you just studied.
+### Co-authorship
+We acknowledge that participation in this study will take time - we estimate that an experienced participant can probably finish all the analyses and documentation in below 2h, but novices might take up to 4h. This study is an important step to ensure that primatological research is reproducible. However, that does not really help anyone. We will therefore co-authorship to any researcher who fulfills the inclusion criteria (see above) and submits **a reproducible documentation** of their analyses before 01/02/2024. This way, researchers benefit directly from participating in this study. If you are unsure whether you fulfill the inclusion criteria, please fill in the form (https://forms.office.com/e/urCgLUyWv0) and we will get in touch to discuss your case.
+

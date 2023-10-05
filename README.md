@@ -36,16 +36,18 @@ Still there? Still interested? Amazing!
 
 ### The data set
 
-Imagine you are approached by a colleague. They have habituated a group of a previously unknown primate species and can individually identify all group members. They observed them for 2,400h over the course of one year, following all 60 adult group members using focal follows. Because we know nothing about this particular species, they collected basic data on dominance interactions (they are certain that higher-ranking individuals displace lower-ranking individuals most of the time) and grooming interactions, which are fairly common. They observed roughly 1,200 grooming interactions and 2,800 displacements in that time period. However, this researcher is not able to turn the raw data into analysable data or run statistical analyses. They are asking you for help, to determine how dominance rank and sex influence grooming patterns. You will have to calculate dominance ranks and prepare grooming interactions and use whatever statistical analyses you find appropriate to answer the two following research questions:
+Imagine you are approached by a colleague. They have habituated a group of a previously unknown primate species and can individually identify all group members. They observed them for 2,400h over the course of one year, following all 60 adult group members using focal follows. Because we know nothing about this particular species, they collected basic data on dominance interactions (they are certain that higher-ranking individuals displace lower-ranking individuals most of the time) and grooming interactions, which are fairly common. They observed roughly 1,200 grooming interactions and 2,800 displacements in that time period. However, this researcher is not able to turn the raw data into analysable data or run statistical analyses. They are asking you for help, to determine how dominance rank, sex and age influence grooming patterns. You will have to calculate dominance ranks and prepare grooming interactions and use whatever statistical analyses you find appropriate to answer the two following research questions:
 
 a)  What is the impact of sex on grooming interactions in this species?
 
-b)  What is the impact of dominance rank on grooming interactions in this species?
+b)  What is the impact of age on grooming interactions in this species?
+
+c)  What is the impact of dominance rank on grooming interactions in this species?
 
 **Please remember that there are no right or wrong approaches - please prepare and analyse data the way you have done in the past and that you find appropriate!**
 
 You can find the data here: . There are four files:
-- *demographics.csv* contains the individuals and their sexes;
+- *demographics.csv* contains the individuals and their sexes and ages;
 - *observation_times.csv* contains information about how often each individual was observed, in case this is information you usually integrate in your analyses;
 - *displacements.csv* contains data that can be used to calculate dominance ranks (higher-ranking individuals are the Sender of the displacements);
 - *grooming.csv* contains data on grooming interactions (grooming is strictly dyadic and one-directional in this species)

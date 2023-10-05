@@ -283,6 +283,12 @@ grooming_data_focalled <-
   left_join(focal_times, by = c('Date' = 'Date', 'Hour' = 'Time.start')) %>%
   filter(Sender == Focal | Receiver == Focal)
 
+## extract displacements
+
+grooming_data_focalled <-
+  interactions %>%
+  left_join(focal_times, by = c('Date' = 'Date', 'Hour' = 'Time.start')) %>%
+  filter(Sender == Focal | Receiver == Focal)
 
 # save data
 

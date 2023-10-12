@@ -1,0 +1,19 @@
+# Many Analysts, One Dataset - Primatology Edition
+## Thank you for considering to participate in this study
+## This file is a template for a general workflow to get from the raw data to the final result.
+## Providing this has two functions: it reduces uncertainty for participants about which steps to follow, and it makes it easier to compare submissions.
+## As such, we would ask you to follow the template provided here, whether you are using R/Python and provide us with a script, or detail your steps if you use Excel/SPSS
+## If you encounter any problems in reading the provided data files, please contact us a.mielke@qmul.ac.uk
+
+# As a reminder: the goal of your data pipeline and analysis is to determine the impact of dominance rank and sex on grooming behaviour. Sex is provided in the demographics.csv file. Ranks have to be calculated from displacements.csv. Grooming interactions can be found in grooming.csv .
+# Remember that there is no right way of doing this - please make choice the way you would if this was your study system.
+
+# Open or Read the four files
+# Calculate dominance ranks for all individuals
+# Prepare grooming interactions
+# Combine information from grooming, demographics, and dominance ranks
+# Prepare outcome and predictor variables
+# Analysis - please perform all model checks you feel are appropriate
+# Visualise or describe impact of Sex
+# Visualise or describe impact of Age
+# Visualise or describe impact of Rank

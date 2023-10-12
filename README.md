@@ -8,8 +8,11 @@ Welcome to our little experiment, and thank you for your interest! For any quest
 **This study has the following inclusion criteria. Only continue if you think you fulfil these criteria. If you do not fulfil these criteria, please do not spend your time on this.** Because we will offer co-authorship to participants and because we are interested in how certain choices are made within the field, we can **only use data of researchers who have the following characteristics**:
 
 a)  You have previously worked with primates - it is not important here if you collected your own data or used someone else, or in which setting you worked
+
 b)  You have experience manipulating and analysing social data - interaction rates, dominance hierarchies, etc
+
 c)  You are at least at the level of PhD student
+
 d)  You have a verifiable institutional email address - it does not matter which institution or where it is situated, but we need to check your status
 
 If you are unsure whether you fulfil the criteria, you can fill this form: <a href="https://forms.office.com/e/urCgLUyWv0" target="_blank"> Inclusion Form </a>
